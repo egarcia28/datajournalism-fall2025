@@ -57,3 +57,30 @@ Because there was only one visual, there was very little opportunity for the dat
    * Rate effectiveness on scale of 1-5.
  
 Again, the story did not include many graphs or other forms of data visualization (only the one map). However, the photos used by the story writers helped communicate the data in a different way. They helped show the humanity of those in the small or nonexistent police forces and the people they serve to protect. This helped emphasize how "One in three Alaska villages have no local police." Throughout the story, photos were used effectively and creatively to communicate the significance of the data, and I again give this story a 5 in this category.
+
+
+
+
+# Data Story Pitch
+
+### Pitch Title:
+Where is law enforcement stationed accross Washington D.C..
+
+### The interesting questions I want to answer:
+Where is law enforcement (MPD, Metro Police, Park Police, etc.) stationed accross the city? Are there locations with higher concentrations, and are there any simillarities between those locations? Is law enforcement actually stationed in areas of higher crime?
+
+### What data may be available
+* Crime and stop data from the MPD
+* I could travel to different areas and record the number of law enforcement 
+
+
+### Why this story is timely now
+President Trump has recently deployed the National Guard into the city, this decision has been met with controversy and backlash. This potentially could have influenced the number and distribution of law enforcement officers throughout the city. I could also compare crime rates, arrests, and police presence since the national guard has been deployed.
+
+
+### Types of people I could talk to for sources
+* Law enforcement officers
+* People in different neighborhoods/areas of Washington D.C.
+* 
+
+
