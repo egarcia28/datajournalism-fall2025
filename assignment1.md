@@ -69,9 +69,12 @@ Where is law enforcement stationed accross Washington D.C..
 ### The interesting questions I want to answer:
 Where is law enforcement (MPD, Metro Police, Park Police, etc.) stationed accross the city? Are there locations with higher concentrations, and are there any simillarities between those locations? Is law enforcement actually stationed in areas of higher crime?
 
-### What data may be available
+### What data may be available, or what data could I collect?
 * Crime and stop data from the MPD
-* I could travel to different areas and record the number of law enforcement 
+* I could travel to different areas and record the number of law enforcement
+* Previous investigations on police activity in Washington D.C.
+* Other investigations in comparably sized cities
+* Historical policing data
 
 
 ### Why this story is timely now
@@ -81,6 +84,9 @@ President Trump has recently deployed the National Guard into the city, this dec
 ### Types of people I could talk to for sources
 * Law enforcement officers
 * People in different neighborhoods/areas of Washington D.C.
-* 
+* Librarians with historical crime rates and policing data
+* The National Guard
+* AUPD
 
+# [Data News Article of the Week](https://www.nytimes.com/2025/09/03/world/americas/venezuela-drug-boat-trump-us.html)
 
