@@ -34,9 +34,8 @@ I then used the column I created, "IS_CRIME," in the values section of my pivot 
 
 
 # Final project data
-Find a dataset you can analyze for your final project (or a related topic, if you haven't yet assembled data that you need for your project or decided on a topic). Clean the data as needed, then use Pivot Tables in Excel to answer an interesting question in the data.
 
-### Link to the original dataset
+### [Link to the dataset](https://crimecards.dc.gov/)
 
 ### Steps taken to clean it
 
