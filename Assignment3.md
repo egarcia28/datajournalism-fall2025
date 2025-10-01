@@ -38,6 +38,7 @@ I then used the column I created, "IS_CRIME," in the values section of my pivot 
 ### [Link to the dataset](https://crimecards.dc.gov/)
 
 ### Steps taken to clean it
+The data was, for the most part, clean upon downloading it. The only cleaning I did was the removal of 
 
 ### The interesting question answered and why it meets standards of newsworthiness
 
