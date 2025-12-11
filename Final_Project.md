@@ -52,7 +52,7 @@ This map helped put the data from the previous scatterplot into perspective. I c
 I then imported the vector map of the DC police districts. The final layer was the locations of DC police stations. 
 I then scaled the size of the station symbols according to the number of officers employed there. This map also allows us to expand our analysis from the individual Police Service Areas (PSAs) to the districts as a whole.
 
-[LINK TO MAP](https://github.com/egarcia28/datajournalism-fall2025/blob/main/FINAL.jpg)
+[LINK TO MAP](https://github.com/egarcia28/datajournalism-fall2025/blob/main/IMG_8495.jpeg)
 
 ## Table
 In order to supplement both of our data visualizations we also created a table with the raw data. This table allows the reader to compare staffed officers with violent crime in each district. 
